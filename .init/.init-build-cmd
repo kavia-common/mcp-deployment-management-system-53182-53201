@@ -1,0 +1,4 @@
+{
+    "command": "chmod +x startup.sh && sudo ./startup.sh &",
+    "working_directory": "/home/kavia/workspace/code-generation/mcp-deployment-management-system-53182-53201/mcp_postgresql_db"
+}
